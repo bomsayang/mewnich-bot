@@ -1,10 +1,10 @@
-# This repo is a version of RhinoBot ready for deployment on Heroku
+# This repo is a version of MewBOT ready for deployment on Heroku
 
-The original RhinoBot is available [here](https://github.com/Just-Some-Bots/MusicBot).
+The original MewBOT is available [here](https://github.com/Just-Some-Bots/MusicBot).
 
 This is to host the Discord music bot onto your own free Heroku cloud account.
 
-This branch is based on Rhinobot version 1.9.8
+This branch is based on ersion 1.9.8
 
 ### Instructions to get this up and working:
 I'm assuming you don't really know much about how to get this stuff set up so this is as basic of a tutorial as I think is necessary.  
@@ -104,7 +104,7 @@ Enjoy your bot.
 
 
 # _____________________________________ 
-# Below is the original Rhinobot's README.md 
+# Below is the original MewBOT's README.md 
 
 # MusicBot
 
